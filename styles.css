@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to bottom, blue, white, red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.car1{
+    width: 500px;
+    
+}
+
+.car2{
+    width: 500px;
+}
